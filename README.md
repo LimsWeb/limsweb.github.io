@@ -25,7 +25,7 @@
 
 [![JIN슬링 예약 화면](assets/jinsling.jpg)](project-notes/jinsling.md)
 
-[YOLO · Vision 개발 기록 보기 →](project-notes/vision.md)
+[![YOLO 객체 검출 결과](assets/vision.jpg)](project-notes/vision.md)
 
 [![PDF Chat 화면](assets/pdf-tools.jpg)](project-notes/pdf-tools.md)
 

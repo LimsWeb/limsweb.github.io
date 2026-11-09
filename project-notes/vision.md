@@ -6,6 +6,8 @@
 - 역할: Python·Vision 개발 · 객체 검출 모델 학습
 - 활용: Python, YOLOv5, YOLOv8 Pose, 전이학습
 
+![한국 음식 객체 검출 결과](../assets/vision.jpg)
+
 ## 이미지에서 필요한 대상을 찾기
 
 Python·Vision 개발 업무에서 YOLO 기반 객체 검출과 학습을 경험했습니다. 과거 이력서에는 YOLOv5 균열 검출 학습, 한국 음식 객체 검출·양 추정과 전이학습 수행 내용이 있습니다.
